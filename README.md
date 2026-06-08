@@ -11,6 +11,7 @@ Drone-based RGB and thermal infrared imagery were fused and used to train a YOLO
 
 ## Flowchart of the Overall System
 <img src=".\docs/Flowdiagram.png">
+
 > 📌 A detailed flowchart of the methodology is available in the paper and in [`docs/Flowdiagram.png`](docs/Flowdiagram.png).
 
 
@@ -24,9 +25,6 @@ The model was trained and evaluated on the following wildlife species:
 | Water buffalo |
 | Wild boar |
 | Green peacock |
-
-
-
 
 ## Getting Started
 
