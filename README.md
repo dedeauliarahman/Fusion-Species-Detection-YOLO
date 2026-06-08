@@ -22,7 +22,7 @@ The model was trained and evaluated on the following wildlife species:
 
 
 > 📌 A detailed flowchart of the methodology is available in the paper and in [`docs/Flowdiagram.png`](docs/Flowdiagram.png).
-
+<img src=".\docs/Flowdiagram.png">
 
 
 ## Getting Started
