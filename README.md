@@ -9,6 +9,11 @@ Drone-based RGB and thermal infrared imagery were fused and used to train a YOLO
 
 **Study site:** Baluran National Park, East Java, Indonesia.
 
+## Flowchart of the Overall System
+<img src=".\docs/Flowdiagram.png">
+> 📌 A detailed flowchart of the methodology is available in the paper and in [`docs/Flowdiagram.png`](docs/Flowdiagram.png).
+
+
 ## Target Species
 The model was trained and evaluated on the following wildlife species:
 | Species |
@@ -21,8 +26,6 @@ The model was trained and evaluated on the following wildlife species:
 | Green peacock |
 
 
-> 📌 A detailed flowchart of the methodology is available in the paper and in [`docs/Flowdiagram.png`](docs/Flowdiagram.png).
-<img src=".\docs/Flowdiagram.png">
 
 
 ## Getting Started
